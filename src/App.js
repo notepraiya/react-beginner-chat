@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 function App() {
   return (
     <div className="app">
-      <Router basename="/react-beginner-chat" >
+      <Router basename="https://notepraiya.github.io/react-beginner-chat" >
       <Header user={{ displayName: "Tester1", photoURL: "https://avatars.dicebear.com/api/gridy/Tester1.svg" }} />
       <div className="app_body">
         <Sidebar />

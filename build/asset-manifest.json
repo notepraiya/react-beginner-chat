@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-beginner-chat/static/css/main.0c31dd43.chunk.css",
-    "main.js": "/react-beginner-chat/static/js/main.6b4c3932.chunk.js",
-    "main.js.map": "/react-beginner-chat/static/js/main.6b4c3932.chunk.js.map",
+    "main.js": "/react-beginner-chat/static/js/main.2b6d017f.chunk.js",
+    "main.js.map": "/react-beginner-chat/static/js/main.2b6d017f.chunk.js.map",
     "runtime-main.js": "/react-beginner-chat/static/js/runtime-main.4940c4ba.js",
     "runtime-main.js.map": "/react-beginner-chat/static/js/runtime-main.4940c4ba.js.map",
     "static/js/2.1a31564a.chunk.js": "/react-beginner-chat/static/js/2.1a31564a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4940c4ba.js",
     "static/js/2.1a31564a.chunk.js",
     "static/css/main.0c31dd43.chunk.css",
-    "static/js/main.6b4c3932.chunk.js"
+    "static/js/main.2b6d017f.chunk.js"
   ]
 }
