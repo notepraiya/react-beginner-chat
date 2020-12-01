@@ -2,7 +2,7 @@
   "name": "react-beginner-chat",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://notepraiya.github.io/react-beginner-chat",
   "dependencies": {
     "@material-ui/core": "^4.11.1",
     "@material-ui/icons": "^4.9.1",
